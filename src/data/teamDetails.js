@@ -31,13 +31,13 @@ export const teamDetails = [
     name: "Eduardo Ian",
     role: "Líder do back-end",
     avatarUrl: { eduardoAvatar },
-    bio: "Olá, tenho 21 anos e sou estudante de analise e desenvolvimento de sistemas. Me encontrei na área de banco de dados e tuda a estrutura que está por trás dos grandes softwares.",
+    bio: "Olá, tenho 21 anos e sou estudante de análise e desenvolvimento de sistemas. Me encontrei na área de banco de dados e toda a estrutura que está por trás dos grandes softwares.",
     skills: ["React", "JavaScript", "SQL", "Python", "Figma"],
     education: [
       {
         institution: "unicesumar",
-        degree: "tecnologo em analise e desenvolvimento de sistemas",
-        year: 2022,
+        degree: "tecnologo em analise e desenvolvimento de sistemas - Cursando",
+        year: 2026,
       },
     ],
     hobbies: ["Instrumentos", "Leitura", "Café", "Fotografia"],
@@ -45,7 +45,7 @@ export const teamDetails = [
   },
   {
     name: "Murilo Lima",
-    role: "Lider UX/UI",
+    role: "Líder UX/UI",
     avatarUrl: "/path/to/avatar1.jpg",
     bio: "Olá! Sou apaixonado por interfaces modernas e acessíveis. Trabalho com React e adoro transformar ideias em experiências digitais.",
     skills: ["React", "JavaScript", "CSS", "Acessibilidade", "Figma"],
@@ -85,11 +85,14 @@ export const teamDetails = [
     education: [
       {
         institution: "unicesumar",
-        degree: "Bacharel em Engenharia de Software",
-        year: 2023,
+        degree: "Bacharel em Engenharia de Software - Cursando",
+        year: 2027,
       },
     ],
     hobbies: ["Futebol", "Jogos", "Série", "Natação"],
+    social: {
+      linkedin: "https://www.linkedin.com/in/arthur-de-souza-alves-449812306/"  
+    },
   },
   {
     name: "Pessoa 6",
@@ -110,3 +113,4 @@ export const teamDetails = [
     },
   },
 ];
+
