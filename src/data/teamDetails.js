@@ -69,22 +69,19 @@ export const teamDetails = [
     hobbies: ["Futebol", "Jogos"],
   },
   {
-    name: "Pessoa 5",
-    role: "Desenvolvedor Front-end",
+    name: "Arthur Alves",
+    role: "Desenvolvedor back-end",
     avatarUrl: "/path/to/avatar1.jpg",
-    bio: "Olá! Sou apaixonado por interfaces modernas e acessíveis. Trabalho com React, Vue e adoro transformar ideias em experiências digitais.",
-    skills: ["React", "JavaScript", "CSS", "Acessibilidade", "Figma"],
+    bio: "Olá, me chamo Arthur, tenho 18 anos e curso Engenharia de Software na Unicesumar. Me dedico ao desenvolvimento back-end e estou sempre buscando aprender novas tecnologias",
+    skills: ["React", "JavaScript", "SQL", "C", "Figma", "HTML", "CSS"],
     education: [
       {
-        institution: "Universidade X",
-        degree: "Bacharel em Sistemas de Informação",
-        year: 2022,
+        institution: "unicesumar",
+        degree: "Bacharel em Engenharia de Software",
+        year: 2023,
       },
     ],
-    hobbies: ["Ciclismo", "Leitura", "Café"],
-    social: {
-      linkedin: "https://linkedin.com/in/pessoa1",
-    },
+    hobbies: ["Futebol", "Jogos", "Série", "Natação"],
   },
   {
     name: "Pessoa 6",
