@@ -2,21 +2,29 @@ import eduardoAvatar from "@/assets/avatar/Eduardo_Ian.jpeg";
 
 export const teamDetails = [
   {
-    name: "Pessoa 1",
-    role: "Desenvolvedor Front-end",
+    name: "Weslley Kampa",
+    role: "Líder Front-end",
     avatarUrl: "/path/to/avatar1.jpg",
-    bio: "Olá! Sou apaixonado por interfaces modernas e acessíveis. Trabalho com React, Vue e adoro transformar ideias em experiências digitais.",
-    skills: ["React", "JavaScript", "CSS", "Acessibilidade", "Figma"],
+    bio: "Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções web envolventes e funcionais. Tenho foco em React.js, Material UI e UI/UX, sempre buscando unir design intuitivo, performance e boas práticas de código.",
+    skills: [
+      "React",
+      "JavaScript",
+      "Material UI",
+      "Java",
+      "Figma",
+      "Node.js",
+      "Git"
+    ],
     education: [
       {
-        institution: "Universidade X",
-        degree: "Bacharel em Sistemas de Informação",
-        year: 2022,
+        institution: "UNIFACEAR",
+        degree: "Tecnologo em Análise e Desenvolvimento de Sistemas - Cursando",
+        year: 2027,
       },
     ],
-    hobbies: ["Ciclismo", "Leitura", "Café"],
+    hobbies: ["RPG de mesa (D&D, Cyberpunk RED)", "HQs e Mangás", "Vídeo games"],
     social: {
-      linkedin: "https://linkedin.com/in/pessoa1",
+      linkedin: "https://linkedin.com/in/weslley-kampa",
     },
   },
   {
