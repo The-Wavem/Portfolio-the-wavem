@@ -94,23 +94,24 @@ export const teamDetails = [
       linkedin: "https://www.linkedin.com/in/arthur-de-souza-alves-449812306/"  
     },
   },
-  {
-    name: "Pessoa 6",
+ {
+    name: "Vinícius Kawasugui Santiago",
     role: "Desenvolvedor Front-end",
     avatarUrl: "/path/to/avatar1.jpg",
-    bio: "Olá! Sou apaixonado por interfaces modernas e acessíveis. Trabalho com React, Vue e adoro transformar ideias em experiências digitais.",
-    skills: ["React", "JavaScript", "CSS", "Acessibilidade", "Figma"],
+    bio: "Iniciei minha trajetória em programação na faculdade, explorando linguagens e ferramentas como C++, SQL (XAMPP), NetBeans, VSCode, HTML, CSS e JavaScript. Tenho enfrentado desafios e resolvido problemas técnicos, adquirindo experiência prática. Atualmente, foco em Python e desenvolvimento web, com projetos em andamento, aprofundando meus conhecimentos na área.",
+    skills: ["HTML", "JavaScript", "CSS", "PYTHON", "Java"],
     education: [
-      {
-        institution: "Universidade X",
-        degree: "Bacharel em Sistemas de Informação",
-        year: 2022,
-      },
+     {
+        institution: "Unicesumar",
+        degree: "Bacharel Engenharia De Software",
+        year: 2025,
+     },
     ],
-    hobbies: ["Ciclismo", "Leitura", "Café"],
+    hobbies: ["Jogos", "Esporte"],
     social: {
-      linkedin: "https://linkedin.com/in/pessoa1",
+     linkedin: "https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/",
     },
   },
 ];
+
 
